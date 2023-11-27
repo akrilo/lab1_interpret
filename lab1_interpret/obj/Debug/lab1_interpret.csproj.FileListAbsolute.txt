@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\obj\Debug\lab1_interpret.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\obj\Debug\laba1.Form1.resources
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\obj\Debug\lab1_interpret.Properties.Resources.resources
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\obj\Debug\lab1_interpret.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\obj\Debug\lab1_interpret.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\bin\Debug\lab1_interpret.exe.config
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\bin\Debug\lab1_interpret.exe
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\bin\Debug\lab1_interpret.pdb
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\obj\Debug\lab1_interpret.exe
+C:\Users\USER\source\repos\lab1_interpret\lab1_interpret\obj\Debug\lab1_interpret.pdb
